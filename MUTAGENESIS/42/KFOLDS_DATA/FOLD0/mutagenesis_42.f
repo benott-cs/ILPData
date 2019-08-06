@@ -1,0 +1,12 @@
+active(d197).
+active(f6).
+active(e27).
+active(d190).
+active(f1).
+active(f4).
+active(d194).
+active(e2).
+active(f5).
+active(d191).
+active(f2).
+active(e1).
